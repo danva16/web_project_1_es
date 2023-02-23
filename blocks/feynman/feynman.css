@@ -1,0 +1,24 @@
+.feynman {
+  box-sizing: border-box;
+  min-height: 890px;
+  /* Можно лучше: использовать flex-column с центровкой. */
+  /*
+  Не хорошо делать высоту фиксированной. Фиксированные
+  значения могут привести к проблемой с версткой при добавлении
+  контента
+  */
+  background: #f2f2f2;
+  background-image: url("../../images/feynman.png");
+  background-repeat: no-repeat;
+  background-size: 867px 637px;
+  background-position: left bottom;
+  /*
+  Можно посоветовать shorthand:
+  background: no-repeat left bottom url('../../images/feynman.png'),
+  #F2F2F2;
+  background-size: 867px 637px;
+  */
+  position: relative;
+  padding-top: 100px;
+  /*Используем padding, чтобы не терять цвет фона*/
+}

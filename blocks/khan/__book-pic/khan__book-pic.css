@@ -1,0 +1,10 @@
+.khan__book-pic {
+  width: 620px;
+  height: 608px;
+  object-fit: cover;
+  object-position: top;
+  /* Советуйте такую реализацию с использование object-fit&-position. Ссылайтесь на доку.
+     Т.к. студенты не знают данного свойства
+   */
+  margin-right: 48px;
+}

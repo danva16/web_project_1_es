@@ -1,0 +1,14 @@
+.cards {
+  width: 920px;
+  list-style-type: none;
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 auto;
+  padding: 0;
+}
+
+/*
+  Можно посоветовать:
+  margin: 0px -50px;
+
+*/

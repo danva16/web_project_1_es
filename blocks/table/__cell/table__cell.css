@@ -1,0 +1,20 @@
+.table__cell {
+  width: 250px;
+  margin: 60px 0 0;
+}
+
+/*
+Советуйте в реализации "Можно лучше"
+.table {
+  display: flex;
+  flex-wrap: wrap;
+  margin: 0 -20px;
+  padding: 0;
+}
+
+.table__cell {
+  width: calc(100% / 4 - 40px)
+  margin: 60px 20px 0;
+}
+
+*/

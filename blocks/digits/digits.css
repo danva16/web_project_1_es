@@ -1,0 +1,12 @@
+.digits {
+  max-width: 1100px;
+  /*
+  Допустим использовать здесь flex заместо margin: auto. Это кажется лишним, но выглядит корректно
+  вместе с блоком kaufman. Ни один из подходов не является ошибочный.
+  */
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+
+  margin: 100px auto;
+}

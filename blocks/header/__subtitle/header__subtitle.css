@@ -1,0 +1,9 @@
+.header__subtitle {
+  width: 388px;
+  /* Можно лучше: используйте свойство max-width для текстовых элементов */
+  line-height: 25px;
+  font-size: 18px;
+  position: absolute;
+  bottom: 30px;
+  left: 64px;
+}

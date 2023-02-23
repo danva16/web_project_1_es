@@ -1,0 +1,19 @@
+@keyframes rotation {
+  from {
+    -webkit-transform: rotate(-15deg);
+    transform: rotate(-15deg);
+  }
+  to {
+    -webkit-transform: rotate(345deg);
+    transform: rotate(345deg);
+  }
+}
+
+.rotation {
+  animation: rotation linear infinite 20s;
+}
+
+/*
+  Обязательно обращайте внимание на данный блок. Это не просто кийфрейм.
+  Здесь описание отдельной сущности, которую надо миксовать.
+*/

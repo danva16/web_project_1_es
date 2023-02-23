@@ -1,0 +1,7 @@
+.feynman__subtitle {
+  /* Допустимо ограничить ширину. */
+  text-align: center;
+  font-size: 36px;
+  line-height: 51px;
+  margin: 70px 0;
+}

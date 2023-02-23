@@ -1,0 +1,5 @@
+.logo_place_footer {
+  height: 35px;
+  /* Если слегка обрезается - допустимо, ничего критичного. */
+  background-image: url('../../../images/logo_place_footer.svg');
+}

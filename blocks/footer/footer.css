@@ -1,0 +1,11 @@
+.footer {
+  min-height: 350px;
+  display: flex;
+  /* Допустимо использовать здесь флекс для того, чтобы расправить footer__columns. Альтернатива height: 100% */
+  -webkit-box-sizing: border-box;
+  -moz-box-sizing: border-box;
+  box-sizing: border-box;
+  /* Изменяем box-sizing, все влезло в min-height, в том числе и внутренние отступы */
+  background: #1F1F1F;
+  padding: 60px 0 40px;
+}

@@ -1,0 +1,10 @@
+.header__link {
+  color: #2F80ED;
+  text-decoration: none;
+  transition: opacity 1s ease-out;
+  /* Можно лучше, использовать transition */
+}
+
+.header__link:hover {
+  opacity: 0.3;
+}
