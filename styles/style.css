@@ -150,6 +150,10 @@
   right: 0;
 }
 
+.header__link {
+  color: #2F80ED;
+}
+
 .two-columns__brief {
   width: 175px;
   color:#2F80ED;
@@ -180,9 +184,6 @@
   font-weight: bold;
 }
 
-.header__link {
-  color: #2F80ED;
-}
 
 .table__cell {
   width: 250px;
