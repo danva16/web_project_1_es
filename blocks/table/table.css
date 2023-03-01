@@ -1,9 +1,10 @@
 .table {
   width: 1100px;
-  list-style-type: none;
+  height: 425px;
   display: flex;
-  flex-wrap: wrap;
+  flex-flow: wrap row;
   justify-content: space-between;
-  margin: 0;
+  align-content: space-between;
+  margin: 60px auto 0 auto;
   padding: 0;
 }

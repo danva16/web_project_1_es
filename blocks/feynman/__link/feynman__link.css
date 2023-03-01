@@ -1,14 +1,15 @@
 .feynman__link {
   line-height: 51px;
   font-size: 36px;
-  color: #2f80ed;
-  text-decoration: none;
+  font-weight: normal;
+  width: auto;
+  height: auto;
   position: absolute;
   top: 50%;
   right: 48px;
-  transition: opacity 1s ease-out;
-  /* Можно лучше, использовать transition */
-}
+  z-index: -1;
+  color: #2F80ED;
+  }
 
 .feynman__link:hover {
   opacity: 0.3;

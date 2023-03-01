@@ -1,5 +1,7 @@
 .logo_place_footer {
+  width: 183px;
   height: 35px;
-  /* Если слегка обрезается - допустимо, ничего критичного. */
-  background-image: url('../../../images/logo_place_footer.svg');
+  background-image: url(../images/logo_place_footer.png);
+  background-repeat: no-repeat;
+  background-size: cover;
 }

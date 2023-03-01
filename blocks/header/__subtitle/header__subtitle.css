@@ -1,9 +1,10 @@
 .header__subtitle {
+  position: absolute;
+  z-index: 2;
   width: 388px;
-  /* Можно лучше: используйте свойство max-width для текстовых элементов */
+  left: 64px;
+  bottom: 30px;
   line-height: 25px;
   font-size: 18px;
-  position: absolute;
-  bottom: 30px;
-  left: 64px;
+  font-weight: normal;
 }

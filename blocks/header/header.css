@@ -1,16 +1,7 @@
 .header {
+  display: flex;
   height: 100vh;
   min-height: 600px;
   max-height: 756px;
-  /* выше установили ограничения для секции */
-  display: flex;
-  flex-direction: column;
-  justify-content: center;
-  background: #F2F2F2;
-  position: relative;
-  /* Релативное позиционирование должно быть именно у шапки */
-  z-index: 1;
-  /* Используем z-index на шапке со значением 1, чтобы квадрат не падал под фон. */
-  overflow: hidden;
-  /* для блока rotation */
+  background-color: #d6bbbb;
 }

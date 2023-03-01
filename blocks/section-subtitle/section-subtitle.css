@@ -1,8 +1,10 @@
 .section-subtitle {
-  width: 60%;
   line-height: 34px;
   font-size: 24px;
-  text-align: center;
-  margin: 20px auto 0;
-  /* Допустимо миксовать от родителя для создания отступов. Как "Можно лучше" */
+  font-weight: normal;
+  width: 60%;
+  height: fit-content;
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
 }

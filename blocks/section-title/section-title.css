@@ -1,8 +1,10 @@
 .section-title {
-  width: 60%;
-  font-size: 60px;
   line-height: 1.15;
-  text-align: center;
-  margin: 0 auto;
-  /* Можно лучше: добавьте margin-top 100 для заголовка, убрав его у секций, где используется данный блок */
+  font-size: 60px;
+  font-weight: bold;
+  width: 60%;
+  height: fit-content;
+  display: flex;
+  justify-content: center;
+  margin: 0 auto 0 auto;
 }

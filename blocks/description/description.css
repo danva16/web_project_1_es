@@ -1,7 +1,6 @@
 .description {
-  margin: 100px 0;
-  /*
-  Допустимо, если студент замиксует дополнительно two-columns от description и там использует margin. На данном этапе не особо принципиально, откуда даются отступы.
-  Но как "Можно лучше" - писать можно
-  */
+  display: flex;
+  justify-content: center;
+  padding-top: 100px;
+  padding-bottom: 100px;  
 }
