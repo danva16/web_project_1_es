@@ -4,4 +4,6 @@
   min-height: 600px;
   max-height: 756px;
   background-color: #d6bbbb;
+  overflow: hidden;
+  position: relative;
 }

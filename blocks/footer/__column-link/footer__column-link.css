@@ -1,6 +1,8 @@
 .footer__column-link {
   color: #ffff;
   display: flex;
+  flex-direction: row;
+  align-items: flex-start;
   align-items: center;
 }
 

@@ -1,0 +1,12 @@
+@keyframes scale {
+    from {
+        scale: 1;
+    }
+    to {
+        scale: 1.2;
+    }
+}
+
+.scale:hover {
+    animation: scale 1s linear forwards;
+}

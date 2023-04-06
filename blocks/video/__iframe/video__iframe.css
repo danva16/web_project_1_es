@@ -5,9 +5,6 @@
   position: relative;
   z-index: 1;
   margin-right: 20px;
-  /*
-  Если студент использует top, как можно лучше обратите его внимание на получившиеся размеры блока li.
-  */
 }
 
 .video__iframe:nth-child(2n + 2) {

@@ -2,6 +2,7 @@
   min-height: 350px;
   width: auto;
   display: flex;
+  flex-direction: row;
   justify-content: center;
   background-color: #1f1f1f;
 }

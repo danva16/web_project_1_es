@@ -4,7 +4,7 @@
   font-weight: normal;
   width: 60%;
   height: fit-content;
-  margin-top: 20px;
+  margin: 20px 0;
   display: flex;
   justify-content: center;
 }

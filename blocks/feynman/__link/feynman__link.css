@@ -7,10 +7,5 @@
   position: absolute;
   top: 50%;
   right: 48px;
-  z-index: -1;
   color: #2F80ED;
   }
-
-.feynman__link:hover {
-  opacity: 0.3;
-}
